@@ -1,0 +1,102 @@
+.FooterMainDiv1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.footersubdiv1{
+   
+    height:250px;
+    margin-left: 20px;
+    display:grid;
+    text-align: left;
+
+}
+
+#footersubimg1{
+    float: left;
+    height:50px;
+}
+
+#fottersub1h1{
+   font-size: 12px;
+   font-weight: 700;
+   color: rgb(73, 73, 73);
+}
+#fottersub1p1{
+    font-size: 11px;
+    font-weight: 500;
+    margin-top: -30px;
+    color: rgb(73, 73, 73);
+}
+
+
+
+
+
+
+.FooterMainDiv2{
+      height:700px;
+      background-color: rgb(244, 244, 244);
+      margin-top: 200px;
+      display:grid;
+      grid-template-columns: 1fr;
+}
+
+
+.FooterDiv2Subdiv1{
+    float:left;
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 10px;
+    color: rgb(95, 95, 95);
+   
+}
+
+
+#div2subdiv1h1{
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 650;
+}
+
+#div2subdiv1h2{
+    margin-top: 40px;
+    font-size: 15px;
+    font-weight: 650;
+}
+
+#div2SubDiv1Img1{
+    width:80px;
+    height:25px;
+  
+    
+}
+
+#div2SubDiv1Img2{
+    width:80px;
+    height:25px;
+    margin-left: 10px;
+    
+}
+
+.FooterDiv2Subdiv2{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  
+    float:left;
+}
+
+.FooterSubdiv2div1{
+    float:left;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 10px;
+    font-weight: 450;
+    color: rgb(71, 101, 91);
+}
+
+#subdiv2p1{
+    font-weight: 500;
+    font-size: 10px;
+    color: rgb(35, 45, 41);
+}

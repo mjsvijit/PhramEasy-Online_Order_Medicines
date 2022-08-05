@@ -1,0 +1,93 @@
+.mainNav{
+  display: flex;
+  flex-flow: column;
+  flex-direction: column;
+ 
+}
+.Nav{
+    width:100%;
+    height: 40px;
+    border:#10847e;
+    background-color: #10847e;
+    position:fixed;
+  
+   
+}
+#Navlogo{
+    float:left;
+    height:60%;
+    width:12%;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+#pcs{
+    height:23px;
+    width:15%;
+    float:left;
+    margin-top: 0.9%;
+    margin-left: 25px;
+    border-left: none;
+    border-top: none;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-right: none;
+    outline: none;
+    color:#006b66;
+    font-size: 8px ;
+   color: #006b66;
+}
+
+#search{
+    height:23px;
+    width:38%;
+    float:left;
+    margin-top: 0.9%;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    outline: none;
+   color:#10847e;
+   font-size: 8px;
+  
+}
+
+
+
+#seacrchbutton{
+    height:25px;
+    float:left;
+    margin-top: 0.9%;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    font-size: 8px;
+    color:#10847e;
+}
+
+.Nav2{
+    height:25px;
+    width:100%;
+    background-color:#10847e;
+    margin-top: 40px;
+   
+}
+#link{
+    font-size: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 10px;
+    float: left;
+    margin-top: 5px;
+}
+#link1{
+    font-size: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 115px;
+    float: left;
+    margin-top: 5px;
+}

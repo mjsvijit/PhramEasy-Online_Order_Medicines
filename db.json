@@ -1,0 +1,176 @@
+{
+  "healthcare": [
+    {
+      "id": 1,
+      "title": "Personel Care",
+      "discount": "Upto 80% off",
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/1279753fc985369b8a8a5069f7fbe209.jpg"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/b8832bde65de3cafbd8a84861b9b9d1d.jpg",
+      "id": 2,
+      "title": "Health Food and Drinks",
+      "discount": "Upto 57% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/8df738c0349d304480de421fd6c6c24f.jpg",
+      "id": 3,
+      "title": "Skin Care",
+      "discount": "Upto 50% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/47031d01e7ea3e1ead70342da6ace7ad.jpg",
+      "id": 4,
+      "title": "Home Care",
+      "discount": "Upto 35% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/25499457d849302885780222cd52b237.png",
+      "id": 5,
+      "title": "Ayurvedic Care",
+      "discount": "Upto 70% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/7be7b3ff31bf3d1bb5d374d984ddfc8b.jpg",
+      "id": 6,
+      "title": "Sexual Wellness",
+      "discount": "Upto 53% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/321bf75f9b693920b1a5a280b8db85e1.jpg",
+      "id": 7,
+      "title": "Fitness & Supplement",
+      "discount": "Upto 80% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/b334c54f69763e129b4cc265de5d74a3.jpg",
+      "id": 8,
+      "title": "Mothor and Baby Care",
+      "discount": "Upto 50% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/b75b42b41fb83d5f926b42ea77cb8035.jpg",
+      "id": 9,
+      "title": "Healthcare Devices",
+      "discount": "Upto 65% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/e63d776d17433b73ab220cb1d6e8ae19.jpg",
+      "id": 10,
+      "title": "Surgical and Dressings",
+      "discount": "Upto 55% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/0193fd80acd733bca44ea1fc3bfd74b3.jpg",
+      "id": 11,
+      "title": "Covid Essentials",
+      "discount": "Upto 77% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/6e38477688f1318a894ac3578ec544f9.jpg",
+      "id": 12,
+      "title": "Health Condition",
+      "discount": "Upto 65% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/6e38477688f1318a894ac3578ec544f9.jpg",
+      "id": 13,
+      "title": "Diabetic Care",
+      "discount": "Upto 65% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/249fbf870f1b3c3a9fc7883f3828b137.jpg",
+      "id": 14,
+      "title": "Elderly Care",
+      "discount": "Upto 45% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/00eeede7f4a735259796382c8a19723e.png",
+      "id": 15,
+      "title": "Accessories And Wearables",
+      "discount": "Upto 35% off"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/9bc9c511ab293f1686007cf670ce6082.png",
+      "id": 16,
+      "title": "Pet Care",
+      "discount": "Upto 30% off"
+    }
+  ],
+  "personalcare": [
+    {
+      "id": 1,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-2-1643884067.jpg",
+      "title": "Calcimax",
+      "MRP": 216.4
+    },
+    {
+      "id": 2,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-1-1641793954.jpg",
+      "title": "Multivitamin Tablet",
+      "MRP": 45
+    },
+    {
+      "id": 3,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1643883399.jpg",
+      "title": "Vitmin B Complex",
+      "MRP": 23
+    },
+    {
+      "id": 4,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/G59900/evecare-refreshing-intimate-wash-for-women-90ml-2-1646136010.jpg",
+      "title": "Intimate wash for Your hands",
+      "MRP": 138.6
+    },
+    {
+      "id": 5,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/J60380/durex-naturals-intimate-lubricant-gel-100ml-3-1641792537.jpg",
+      "title": "Durex Intimate Lubricant",
+      "MRP": 639.2
+    },
+    {
+      "id": 6,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-1-1647245233.jpg",
+      "title": "Dandruff Shampoo",
+      "MRP": 195
+    },
+    {
+      "id": 7,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-1-1651121454.jpg",
+      "title": "Venusia Intensive",
+      "MRP": 372.96
+    },
+    {
+      "id": 8,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-health-supplement-capsules-bottle-of-60-2-1643883822.jpg",
+      "title": "Revital",
+      "MRP": 467.5
+    },
+    {
+      "id": 9,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/157655/selsun-shampoo-120ml-2-1644329343.jpg",
+      "title": "Selsun Shampoo 120ml",
+      "MRP": 257.99
+    },
+    {
+      "id": 10,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/124293/nivea-body-milk-lotion-400ml-2-1641398951.jpg",
+      "title": "Nivia Lotion 400ml",
+      "MRP": 319
+    },
+    {
+      "id": 11,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Y86033/navratna-ayurvedic-cool-hair-oil-bottle-of-200-ml-2-1643876508.jpg",
+      "title": "Navratna Cool Hair Oil ",
+      "MRP": 127.5
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1643883399.jpg",
+      "title": "Vitmin B Complex",
+      "MRP": 23
+    }
+  ]
+}
